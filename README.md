@@ -23,7 +23,7 @@ when we were looking at the data we find that the total amount has null values s
 the reason we used the filter and not the interrupter is the data size 
 when we use the interrupter the computer crashes so we decided on using a filter instead 
 
-### we also used the flowing calclations:
+### we also used the following calculations:
 
 * AVG(Total Amount): shows total price
 * AVG(Fare Amount): shows fare price
