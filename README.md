@@ -16,7 +16,7 @@ Hobe we did a good job
 Taxi Dataset from Thursday Presentation:
      https://drive.google.com/file/d/1CPGe0GYfItlQK86XJX3XqnuI0CNV5hAI/view?usp=sharing 
 
-The period of the dataset we used is from 2009-2019 and there are one types of taxis, yellow (medallion) cab. 
+The period of the dataset we used is from 2009-2019 and there are one types of taxis, yellow cab. 
 
 # Using The Data
 when we were looking at the data we find that the total amount has null values so we applied a filter before using the that 
