@@ -6,13 +6,13 @@
     * Shaima Aljahani
  * Link to the tableau Workbook:
     https://public.tableau.com/profile/shaima3352#!/vizhome/ProjectR2/Summary
- * Link to the website the dashboard and story published in
+ * Link to the website the dashboard and story published in:
   https://mesha4545a.github.io/tableauProject.github.io/
   
   
 Hobe we did a good job 
 
-# The Data set we got from:
+# The Dataset:
 Taxi Dataset from Thursday Presentation:
      https://drive.google.com/file/d/1CPGe0GYfItlQK86XJX3XqnuI0CNV5hAI/view?usp=sharing 
 
