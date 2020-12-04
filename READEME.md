@@ -5,4 +5,4 @@
     * Eatidal Almutairi
     * Shaima Aljahani
  * Link to the tableau Workbook:
-[](https://public.tableau.com/profile/shaima3352#!/vizhome/ProjectR2/Summary)
+https://public.tableau.com/profile/shaima3352#!/vizhome/ProjectR2/Summary
