@@ -31,8 +31,8 @@ when we use the interrupter the computer crashes so we decided on using a filter
 * SUM(Total Amount): Show total fair amount
 
 # The Dashboard
+![Picture1](https://user-images.githubusercontent.com/48656800/101201531-f3d91e00-3678-11eb-8d6f-cf70fd3a2119.png)
 
-![](images/
 
 
 # The Story 
