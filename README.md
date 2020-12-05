@@ -1,6 +1,6 @@
 # NYC Taxi Data Visualization Using Tableau 
  * Team Members:
-    * ![Hailah AlHarthi](https://github.com/helah20)
+    * [Hailah AlHarthi](https://github.com/helah20)
     * Shaima Alharbi
     * Eatidal Almutairi
     * Shaima Aljahani
