@@ -3,7 +3,7 @@
     * [Hailah AlHarthi](https://github.com/helah20)
     * [Shaima Alharbi](https://github.com/shaimaa122)
     * [Eatidal Almutairi](https://github.com/eatidal)
-    * Shaima Aljahani
+    * [Shaima Aljahani](https://github.com/mesha4545a)
  * Link to the tableau Workbook:
     https://public.tableau.com/profile/shaima3352#!/vizhome/ProjectR2/Summary
  * Link to the website the dashboard and story published in:
